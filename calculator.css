@@ -1,0 +1,23 @@
+
+body{
+	text-align: center;
+    background-color: aqua;
+}
+span{
+	text-decoration: underline;
+}
+button{
+    padding: 30px 40px;
+    background-color: rgb(201, 33, 33);
+}
+button:hover{
+    background-color: red;
+    border-color: grey;
+}
+button:active{
+    background-color: blue;
+    border-color: bisque;
+}
+span{
+    font-size: 100px;
+}
